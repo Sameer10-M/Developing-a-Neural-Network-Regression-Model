@@ -50,9 +50,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: k.shivaji
+### Name: R Raihaan Ahmed 
 
-### Register Number: 212224233002
+### Register Number: 212224040260
 
 ```
 import torch
