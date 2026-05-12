@@ -50,9 +50,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: R Raihaan Ahmed 
+### Name: M Sameer Shariff M
 
-### Register Number: 212224040260
+### Register Number: 212224220085
 
 ```
 import torch
